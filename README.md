@@ -4,10 +4,10 @@
 Download Virtex Via Termux ^_^
 
 CARA INSTALL NYA MELALUI TERMUX
-
-
-$ pkg update
-
+saya
+saya
+$pkg
+saya
 $ pkg upgrade
 
 $ pkg install git
@@ -20,8 +20,8 @@ $ pip3 install bs4
 
 $ pip3 install requests
 
-$ git clone https://github.com/SUBUR78990/VIRTEX-V7.git
-
+$ git clone https://github.com/SUBUR78990/VIRTEX-SADIS.git
+saya
 $ termux-setup-storage
 
 $ cd Virtex
